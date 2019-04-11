@@ -1,0 +1,45 @@
+body {
+  background: #020024;
+  background: -webkit-gradient(linear, left top, right top, from(#020024), color-stop(0%, #090979), color-stop(1%, #072e92), to(#00d4ff));
+  background: linear-gradient(90deg, #020024 0%, #090979 0%, #072e92 1%, #00d4ff 100%);
+  width: 80%;
+  padding-left: 10%;
+}
+
+nav {
+  background-color: gray;
+  padding: 1vw 0 1vw 15vw;
+  margin-bottom: 1vw;
+}
+
+nav button {
+  margin-right: 3vw;
+}
+
+.form-group {
+  display: inline;
+  margin-right: 8vw;
+}
+
+table {
+  border: 1px solid black;
+  background: white;
+  width: 100%;
+}
+
+table th,
+table td {
+  padding: 1vw;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.div-info {
+  width: 100%;
+}
+
+.div-info h1 {
+  display: inline-block;
+  width: 40%;
+}
+/*# sourceMappingURL=style.css.map */
